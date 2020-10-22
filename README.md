@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I teaching internet technology, natural language processing and software engineering at [Fachhochschule Südwestfalen](https://www.fh-swf.de).
+
+This is my private profile with private projects. Repositories related to my work are hosted under [github.com/fhswf](https://github.com/fhswf)
+
+
 <!--
 **cgawron/cgawron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
