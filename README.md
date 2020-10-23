@@ -1,6 +1,6 @@
-### Hi there 👋
+### About me
 
-I teaching internet technology, natural language processing and software engineering at [Fachhochschule Südwestfalen](https://www.fh-swf.de).
+I'm teaching internet technology, natural language processing and software engineering at [Fachhochschule Südwestfalen](https://www.fh-swf.de).
 
 This is my private profile with private projects. Repositories related to my work are hosted under [github.com/fhswf](https://github.com/fhswf)
 
